@@ -2,5 +2,8 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Something new"
+![Meme Image]
+(https://i.kym-cdn.com/photos/images/facebook/001/217/729/f9a.jpg)
+
 Use the left arrow to go back!
